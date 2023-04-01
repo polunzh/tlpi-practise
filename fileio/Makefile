@@ -1,6 +1,6 @@
 include ../Makefile.inc
 
-GEN_EXE = tee
+GEN_EXE = tee copy
 
 LINUX_EXE = large_file
 
